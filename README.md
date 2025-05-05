@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wesnermichel-nexus-mcp-claude-desktop-server-badge.png)](https://mseep.ai/app/wesnermichel-nexus-mcp-claude-desktop-server)
+
 # Nexus MCP Bridge for VSCode
 
 A lightweight bridge extension that lets Claude Desktop connect to your VSCode workspace via Model Context Protocol (MCP).
